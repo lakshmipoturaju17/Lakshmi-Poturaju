@@ -14,10 +14,10 @@
 ### 👩‍💻 About Me
 
 * 🎓 B.Tech CSE (Internet of Things) student at **Vasireddy Venkatadri Institute of Technology**
-* 🌱 Currently learning **Artificial Intelligence, Python, and Web Development**
-* 💡 Interested in **AI, IoT, and Software Development**
+* 🌱 Currently learning **Java, Python, and Web Development**
+* 💡 Interested in **Java, IoT, and Software Development**
 * 👩‍💻 Check out my projects on **GitHub**
-* 💬 Ask me about **Python, C, HTML, CSS, MySQL**
+* 💬 Ask me about **Python, Java, HTML, CSS, MySQL**
 * 📫 Reach me at **[lakshmipothuraju17@gmail.com](mailto:lakshmipothuraju17@gmail.com)**
 
 ---
@@ -60,7 +60,7 @@
 * Joy of Using Python — NPTEL
 * Generative AI — Google Cloud
 * Cybersecurity Analyst Job Simulation — TATA
-* GenAI Powered Data Analytics Job Simulation — TATA
+* Beginner DSA - codechef
 * AWS Academy Graduate — Cloud Foundations
 
 ---
